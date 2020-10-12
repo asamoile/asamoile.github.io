@@ -10,14 +10,22 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50d81456-b1e1-4b55-8356-a4b18c9ab6ce" name="Default Changelist" comment="new" />
+    <list default="true" id="50d81456-b1e1-4b55-8356-a4b18c9ab6ce" name="Default Changelist" comment="first commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grid/css/style.sass" beforeDir="false" afterPath="$PROJECT_DIR$/Grid/css/style.sass" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/asamoile.github.io" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1ilhNuTYuUoyIVqV7GKFkJGwcP6" />
@@ -30,11 +38,23 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/asamoile.github.io/Grid/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -47,7 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1602488048728</updated>
       <workItem from="1602488050029" duration="660000" />
-      <workItem from="1602490892985" duration="2198000" />
+      <workItem from="1602490892985" duration="7245000" />
     </task>
     <task id="LOCAL-00001" summary="master">
       <created>1602488166192</created>
@@ -63,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602491094379</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="first commit">
+      <created>1602493986756</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602493986756</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,17 +117,18 @@
     </ignored-roots>
     <MESSAGE value="master" />
     <MESSAGE value="new" />
-    <option name="LAST_COMMIT_MESSAGE" value="new" />
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="877" y="418" key="#Notifications" timestamp="1602493456899">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="877" y="418" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1602493456899" />
-    <state x="772" y="297" key="FileChooserDialogImpl" timestamp="1602493378030">
+    <state x="772" y="297" key="FileChooserDialogImpl" timestamp="1602493690161">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="772" y="297" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1602493378030" />
+    <state x="772" y="297" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1602493690161" />
     <state x="413" y="160" key="SettingsEditor" timestamp="1602493468249">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -109,13 +137,21 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="807" y="433" key="VCS.ChangelistChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1602488665729" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1602491146965">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1602495511000">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602491146965" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602495511000" />
+    <state x="854" y="289" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1602493790656">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="854" y="289" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602493790656" />
     <state x="769" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602491240897">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="769" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602491240897" />
+    <state x="758" y="447" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1602495184425">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="758" y="447" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602495184425" />
   </component>
 </project>
