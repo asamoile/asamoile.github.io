@@ -158,6 +158,7 @@
     grid-column: 1/5
     padding: $gutter $gutter 50px
 
+
 .container
     max-width: 1200px
     margin: auto
@@ -168,7 +169,6 @@
 
     h2
         color: #293a43
-        font-family: Raleway
         font-size: 34px
         font-weight: 800
         font-style: normal
@@ -199,9 +199,11 @@
 
     input
         background-color: lighten($dark, 6%)
+
     form
         grid-gap: $gutter
         grid-template-columns: repeat(4, 1fr)
+
     .button
         font-size: 17px
         padding: 14.5px
@@ -223,6 +225,95 @@ input, textarea
     //псевдоэлемент для осветления надписи в input
     &::placeholder
         color: lighten($dark, 20%)
+
+.section-blog
+    h2
+        margin: 0 0 62px 0
+
+    .buttoncase
+        padding-bottom: 0
+
+.blog-home
+    grid-gap: $gutter
+    grid-template-columns: repeat(4, 1fr)
+
+.blog-item
+    background-color: #f7f7f7
+    text-decoration: none
+    //убрать подчеркивания ссылок
+    grid-template-rows: 1fr 1fr
+    transition: background-color .25s ease
+    overflow: hidden
+    color: #333
+
+    &:nth-child(3)
+        grid-column: 3/5
+
+    &:nth-child(4)
+        grid-column: 1/3
+
+    &:hover
+        background-color: $light
+
+        h4
+            color: $dark
+
+        .blog-item-img
+            transform: scale(1.05)
+    //увеличение картинки при наведении
+    &-img
+        height: 270px
+        background-size: cover
+        background-position: center
+        transition: tranform .25s ease
+
+    &-content
+        padding: 25px
+        text-align: center
+        align-content: center
+
+    h4
+        color: #666666
+        font-size: 18px
+        font-weight: 700
+        font-style: normal
+        letter-spacing: normal
+        line-height: normal
+        text-align: center
+        margin: 0
+        transition: color .25s ease
+
+    p
+        margin:
+            top: 20px
+            bottom: 0
+
+.main-footer
+    padding: 60px 0
+    background-color: darken($dark, 8%)
+    color: #4e5355
+
+    font-family: Intro-grid, sans-serif
+    font-size: 27px
+    font-weight: 400
+    font-style: normal
+    letter-spacing: normal
+    line-height: normal
+    text-align: center
+
+.footer-logo
+    font-family: Intro-grid, sans-serif
+    font-size: 22px
+    line-height: normal
+    span
+        display: block
+        font-size: 27px
+        color: #707476
+.footer-copy
+    font-size: 20px
+    color: #494d50
+    font-weight: 700
+    margin-top: 20px
 
 
 @import "media"

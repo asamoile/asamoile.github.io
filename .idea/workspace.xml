@@ -10,9 +10,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50d81456-b1e1-4b55-8356-a4b18c9ab6ce" name="Default Changelist" comment="first commit">
+    <list default="true" id="50d81456-b1e1-4b55-8356-a4b18c9ab6ce" name="Default Changelist" comment="Готов модуль form-section">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grid/css/.sass-cache/902d7c3bf2df4b2e52475bdeaa2ab349aa7dd52c/style.sassc" beforeDir="false" afterPath="$PROJECT_DIR$/Grid/css/.sass-cache/902d7c3bf2df4b2e52475bdeaa2ab349aa7dd52c/style.sassc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grid/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Grid/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grid/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Grid/css/style.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Grid/css/style.sass" beforeDir="false" afterPath="$PROJECT_DIR$/Grid/css/style.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grid/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Grid/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +45,6 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
@@ -67,7 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1602488048728</updated>
       <workItem from="1602488050029" duration="660000" />
-      <workItem from="1602490892985" duration="7245000" />
+      <workItem from="1602490892985" duration="22873000" />
     </task>
     <task id="LOCAL-00001" summary="master">
       <created>1602488166192</created>
@@ -90,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602493986756</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Готов модуль form-section">
+      <created>1602498874738</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602498874738</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,13 +128,18 @@
     <MESSAGE value="master" />
     <MESSAGE value="new" />
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="Готов модуль form-section" />
+    <option name="LAST_COMMIT_MESSAGE" value="Готов модуль form-section" />
   </component>
   <component name="WindowStateProjectService">
     <state x="877" y="418" key="#Notifications" timestamp="1602493456899">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="877" y="418" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1602493456899" />
+    <state x="723" y="294" key="EditFileWatcherDialog" timestamp="1602499783695">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="723" y="294" key="EditFileWatcherDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602499783695" />
     <state x="772" y="297" key="FileChooserDialogImpl" timestamp="1602493690161">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -137,10 +152,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="807" y="433" key="VCS.ChangelistChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1602488665729" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1602495511000">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1602498886504">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602495511000" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602498886504" />
     <state x="854" y="289" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1602493790656">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
