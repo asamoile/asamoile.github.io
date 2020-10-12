@@ -1,0 +1,146 @@
+body
+    font-family: 'Montserrat', sans-serif
+    min-width: 320px
+    color: #1d1d1d
+img
+    max-width: 100%
+    height: auto
+section
+    padding: 100px 0
+h3
+    font-size: 43px
+    line-height: 44.54px
+    font-style: italic
+    font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif
+h2
+    font-weight: 600
+    margin-bottom: 20px
+    font-family: 'Montserrat', sans-serif
+    font-size: 55px
+    line-height: 67.23px
+
+
+//========================header================================
+
+.navbar-brand
+    color: #fff
+    font-weight: 600
+    font-size: 41px
+
+.main_header
+    background: url("../img/main1.jpg") center no-repeat
+    width: 100%
+    background-size: cover
+    height: 100vh
+    min-height: 700px
+    position: relative
+    .navbar-toggler
+        color: #fff // цвет кнопки бутера
+    ul li a
+        color: #fff
+        font-weight: 600
+        font-size: 17px
+    ul li a::after // добавляем ссылкам эфект подчеркивания при наведении
+        content: ''
+        display: block
+        width: 100%
+        background-color: white
+        height: 1px
+        transform: scale(0) // пока делаем нивидимой
+        transition: all .3s // задержка 0,3 сек.
+    ul li a:hover:after // при наведении эфект срабатывает
+        transform: scale(1)
+    p
+        padding-top: 30px
+    &_text
+        position: absolute
+        top: 25%
+        left: 5%
+        max-width: 680px
+        color: #ffffff
+        padding: 20px
+    //&_buttons .btn
+    //    //height: 60px
+    //    //margin-right: 20px
+    //    //opacity: .8
+    //    //box-shadow: 0 4px 16px rgba(0,0,0,.35) // тень. 16 пикс. размер
+    //    //transition: all .5s //плавность при наведении
+    &_buttons
+        padding: 25px 40px 0 30px
+    &_buttons .btn:hover
+        color: #ffffff
+        opacity: 1 // при наведении прозрачность отсутствует
+.btn_pink
+    margin-right: 20px
+    width: 198px
+    height: 60px
+    background-color: #f42267
+    box-shadow: 1px 4px 16px rgba(1, 2, 2, 0.35) // тень. 16 пикс. размер
+    opacity: 0.7 // прозрачность 70%
+    transition: all .5s //плавность при наведении
+.btn_violet
+    margin-right: 20px
+    width: 198px
+    height: 60px
+    box-shadow: 1px 4px 16px rgba(1, 2, 2, 0.35) // тень. 16 пикс. размер
+    background-color: #5f3fb8
+    opacity: 0.7 // прозрачность 70%
+    transition: all .5s //плавность при наведении
+.btn
+    font-size: 15px
+    font-weight: 600
+    color: #ffffff
+    text-transform: uppercase
+
+@media (max-width: 461px)
+    .main_header_text
+        h2
+            line-height: 40px
+            font-size: 28px
+        h3
+            font-size: 28px
+        p
+            padding-top: 0
+
+@media (max-width: 380px)
+    .main_header
+        .navbar-brand
+            font-size: 30px
+
+
+
+@media (max-width: 768px)
+    .main_header_text
+        left: 0
+        margin: 0 20px
+        max-width: 100%
+    h2, h3
+        font-size: 30px
+
+@media (max-width: 600px)
+    .main_header_text
+        top: 90px
+    .main_header_buttons .btn
+        display: block
+        width: 100%
+    .btn_violet
+        margin-top: 15px
+
+@media (max-width: 991.98px)
+    .main_header_text
+        background-color: rgba(0,0,0,.3) //Подложка для текста
+    // цвет и позиционирование меню
+    .navbar-nav
+        background: linear-gradient(45deg, #ed1b33 0%,#442e82 100%)
+        position: relative
+        z-index: 1
+        padding: 0 15px
+// Large devices (desktops, less than 1200px)
+@media (max-width: 1199.98px)
+
+
+
+
+
+
+
