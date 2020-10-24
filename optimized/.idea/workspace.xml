@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:asamoile.github.io" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="889b5459-050b-4600-809b-6ea8dd75c91f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/asamoile.github.io.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/.idea/auto.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/_.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/browsersync.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/css/.sass-cache/539aefd90132c7201efc5a55e32271f8f2b47c11/main.sassc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/css/bootstrap-utilities.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/css/bootstrap-utilities.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/css/bootstrap-utilities.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/css/bootstrap-utilities.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/css/fonts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/css/main.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/css/main.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/css/media.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/fonts/RobotoBold/RobotoBold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/fonts/RobotoBold/RobotoBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/fonts/RobotoBold/RobotoBold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/fonts/RobotoLight/RobotoLight.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/fonts/RobotoLight/RobotoLight.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/fonts/RobotoLight/RobotoLight.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/fonts/RobotoMedium/RobotoMedium.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/fonts/RobotoMedium/RobotoMedium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/fonts/RobotoMedium/RobotoMedium.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/fonts/RobotoRegular/RobotoRegular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/fonts/RobotoRegular/RobotoRegular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/fonts/RobotoRegular/RobotoRegular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/img/342421_foto_oboi-avto_tachki_garazh_podemnik_BMW_1680x1050_(www.GdeFon.ru).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/img/garage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/img/header/camera_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/img/header/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/img/header/top_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/img/header/top_map.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/img/maxresdefault.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/img/абразивная-полировка-кузова.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/img/антикоррозийная-обработка-автомобиля.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/img/кузовной-ремонт.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/img/локальный-ремонт-переднего-бампера.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/img/стапельные работы и цены .JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/js/bootstrap.esm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/js/bootstrap.esm.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/js/bootstrap.esm.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/js/bootstrap.esm.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/js/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/libs/bootstrap-toolkit/bootstrap-toolkit.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/libs/bootstrap/bootstrap-grid-3.3.1.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/libs/countdown/jquery.countdown-ru.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/libs/countdown/jquery.countdown.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/libs/countdown/jquery.countdown.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/libs/countdown/jquery.plugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/libs/equalheight/jquery.equalheight.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/libs/fancybox/blank.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/libs/fancybox/fancybox_loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/libs/fancybox/fancybox_loading@2x.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/libs/fancybox/fancybox_overlay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/libs/fancybox/fancybox_sprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/libs/fancybox/fancybox_sprite@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/libs/fancybox/helpers/fancybox_buttons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/libs/fancybox/helpers/jquery.fancybox-buttons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/libs/fancybox/helpers/jquery.fancybox-buttons.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/libs/fancybox/helpers/jquery.fancybox-media.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/libs/fancybox/helpers/jquery.fancybox-thumbs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/libs/fancybox/helpers/jquery.fancybox-thumbs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/libs/fancybox/jquery.fancybox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/libs/fancybox/jquery.fancybox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/libs/fancybox/jquery.fancybox.pack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/libs/font-awesome-4.2.0/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/libs/font-awesome-4.2.0/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/libs/font-awesome-4.2.0/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/libs/font-awesome-4.2.0/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/libs/font-awesome-4.2.0/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/libs/font-awesome-4.2.0/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/libs/html5shiv/es5-shim.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/libs/html5shiv/html5shiv-printshiv.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/libs/html5shiv/html5shiv.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/libs/html5shiv/respond.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/libs/jquery-mousewheel/jquery.mousewheel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/libs/jquery/jquery-1.11.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/libs/landing-nav/navigation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/libs/maskedinput/jquery.maskedinput.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/libs/owl-carousel/AjaxLoader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/libs/owl-carousel/grabbing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/libs/owl-carousel/owl.carousel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/libs/owl-carousel/owl.carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/libs/owl-carousel/owl.carousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/libs/owl-carousel/owl.theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/libs/owl-carousel/owl.transitions.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/libs/respond/respond.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/libs/scrollto/jquery.scrollTo.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/libs/stellar/jquery.stellar.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/libs/waypoints/waypoints-1.6.2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../auto/mail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/optimized.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browsersync.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/BaronBlack/BaronBlack.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/BaronBlack/BaronBlack.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/BaronBlack/BaronBlack.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/BaronBold/BaronBold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/BaronBold/BaronBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/BaronBold/BaronBold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RobotoBlack/RobotoBlack.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RobotoBlack/RobotoBlack.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RobotoBlack/RobotoBlack.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RobotoBold/RobotoBold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RobotoBold/RobotoBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RobotoBold/RobotoBold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RobotoMedium/RobotoMedium.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RobotoMedium/RobotoMedium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RobotoMedium/RobotoMedium.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RobotoRegular/RobotoRegular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RobotoRegular/RobotoRegular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/RobotoRegular/RobotoRegular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/ad-cube.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/ad-horizontal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/ad-vertical.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blog/diy/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blog/diy/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blog/diy/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blog/electronics/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blog/electronics/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blog/electronics/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blog/electronics/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blog/electronics/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blog/electronics/_test.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blog/electronics/electronics.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blog/lifehacks/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blog/lifehacks/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blog/lifehacks/16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blog/lifehacks/17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blog/news/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blog/news/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blog/news/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blog/news/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blog/reviews/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blog/reviews/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blog/reviews/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blog/reviews/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/example.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/favicon/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/favicon/apple-touch-icon-114x114.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/favicon/apple-touch-icon-180x180.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/favicon/apple-touch-icon-72x72.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/favicon/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/favicon/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/vk-witget.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/scripts.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/_alert.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/_badge.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/_breadcrumb.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/_button-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/_card.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/_carousel.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/_close.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/_code.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/_custom-forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/_dropdown.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/_functions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/_grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/_images.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/_input-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/_jumbotron.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/_list-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/_media.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/_modal.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/_nav.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/_navbar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/_popover.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/_print.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/_progress.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/_reboot.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/_root.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/_tables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/_tooltip.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/_transitions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/_type.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/_utilities.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/bootstrap-grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/bootstrap-reboot.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/bootstrap.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/mixins/_alert.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/mixins/_background-variant.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/mixins/_badge.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/mixins/_border-radius.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/mixins/_box-shadow.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/mixins/_breakpoints.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/mixins/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/mixins/_caret.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/mixins/_clearfix.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/mixins/_float.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/mixins/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/mixins/_gradients.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/mixins/_grid-framework.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/mixins/_grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/mixins/_hover.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/mixins/_image.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/mixins/_list-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/mixins/_lists.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/mixins/_nav-divider.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/mixins/_navbar-align.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/mixins/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/mixins/_reset-text.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/mixins/_resize.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/mixins/_screen-reader.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/mixins/_size.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/mixins/_table-row.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/mixins/_text-emphasis.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/mixins/_text-hide.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/mixins/_text-truncate.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/mixins/_transition.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/mixins/_visibility.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/utilities/_align.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/utilities/_background.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/utilities/_borders.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/utilities/_clearfix.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/utilities/_display.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/utilities/_embed.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/utilities/_flex.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/utilities/_float.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/utilities/_position.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/utilities/_screenreaders.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/utilities/_sizing.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/utilities/_spacing.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/utilities/_text.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bootstrap/scss/utilities/_visibility.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/font-awesome-4.7.0/HELP-US-OUT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/font-awesome-4.7.0/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/font-awesome-4.7.0/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/font-awesome-4.7.0/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/font-awesome-4.7.0/less/animated.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/font-awesome-4.7.0/less/bordered-pulled.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/font-awesome-4.7.0/less/core.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/font-awesome-4.7.0/less/fixed-width.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/font-awesome-4.7.0/less/font-awesome.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/font-awesome-4.7.0/less/icons.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/font-awesome-4.7.0/less/larger.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/font-awesome-4.7.0/less/list.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/font-awesome-4.7.0/less/mixins.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/font-awesome-4.7.0/less/path.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/font-awesome-4.7.0/less/rotated-flipped.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/font-awesome-4.7.0/less/screen-reader.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/font-awesome-4.7.0/less/stacked.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/font-awesome-4.7.0/less/variables.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/font-awesome-4.7.0/scss/_animated.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/font-awesome-4.7.0/scss/_bordered-pulled.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/font-awesome-4.7.0/scss/_core.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/font-awesome-4.7.0/scss/_fixed-width.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/font-awesome-4.7.0/scss/_icons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/font-awesome-4.7.0/scss/_larger.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/font-awesome-4.7.0/scss/_list.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/font-awesome-4.7.0/scss/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/font-awesome-4.7.0/scss/_path.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/font-awesome-4.7.0/scss/_rotated-flipped.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/font-awesome-4.7.0/scss/_screen-reader.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/font-awesome-4.7.0/scss/_stacked.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/font-awesome-4.7.0/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/font-awesome-4.7.0/scss/font-awesome.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/jquery/dist/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/jquery/dist/jquery.slim.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/.sass-cache/037982324ac745b848dbccf0444840de3f0647e7/_fonts.sassc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/.sass-cache/037982324ac745b848dbccf0444840de3f0647e7/_libs.sassc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/.sass-cache/037982324ac745b848dbccf0444840de3f0647e7/_media.sassc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/.sass-cache/037982324ac745b848dbccf0444840de3f0647e7/_vars.sassc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/.sass-cache/037982324ac745b848dbccf0444840de3f0647e7/main.sassc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/.sass-cache/05b55a35bea02a6bccf98018e08e6edad570d47c/_animated.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/.sass-cache/05b55a35bea02a6bccf98018e08e6edad570d47c/_bordered-pulled.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/.sass-cache/05b55a35bea02a6bccf98018e08e6edad570d47c/_core.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/.sass-cache/05b55a35bea02a6bccf98018e08e6edad570d47c/_fixed-width.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/.sass-cache/05b55a35bea02a6bccf98018e08e6edad570d47c/_icons.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/.sass-cache/05b55a35bea02a6bccf98018e08e6edad570d47c/_larger.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/.sass-cache/05b55a35bea02a6bccf98018e08e6edad570d47c/_list.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/.sass-cache/05b55a35bea02a6bccf98018e08e6edad570d47c/_mixins.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/.sass-cache/05b55a35bea02a6bccf98018e08e6edad570d47c/_path.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/.sass-cache/05b55a35bea02a6bccf98018e08e6edad570d47c/_rotated-flipped.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/.sass-cache/05b55a35bea02a6bccf98018e08e6edad570d47c/_screen-reader.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/.sass-cache/05b55a35bea02a6bccf98018e08e6edad570d47c/_stacked.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/.sass-cache/05b55a35bea02a6bccf98018e08e6edad570d47c/_variables.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/.sass-cache/05b55a35bea02a6bccf98018e08e6edad570d47c/font-awesome.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/.sass-cache/5f77c478549c87c89b8bf0a5c0779151ef553d4f/_functions.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/.sass-cache/5f77c478549c87c89b8bf0a5c0779151ef553d4f/_grid.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/.sass-cache/5f77c478549c87c89b8bf0a5c0779151ef553d4f/_mixins.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/.sass-cache/5f77c478549c87c89b8bf0a5c0779151ef553d4f/_reboot.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/.sass-cache/5f77c478549c87c89b8bf0a5c0779151ef553d4f/_variables.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/.sass-cache/5f77c478549c87c89b8bf0a5c0779151ef553d4f/bootstrap-grid.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/.sass-cache/5f77c478549c87c89b8bf0a5c0779151ef553d4f/bootstrap-reboot.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/.sass-cache/6798a1882124cebff94d4566f5c9c3f157f6b71f/_alert.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/.sass-cache/6798a1882124cebff94d4566f5c9c3f157f6b71f/_background-variant.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/.sass-cache/6798a1882124cebff94d4566f5c9c3f157f6b71f/_badge.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/.sass-cache/6798a1882124cebff94d4566f5c9c3f157f6b71f/_border-radius.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/.sass-cache/6798a1882124cebff94d4566f5c9c3f157f6b71f/_box-shadow.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/.sass-cache/6798a1882124cebff94d4566f5c9c3f157f6b71f/_breakpoints.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/.sass-cache/6798a1882124cebff94d4566f5c9c3f157f6b71f/_buttons.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/.sass-cache/6798a1882124cebff94d4566f5c9c3f157f6b71f/_caret.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/.sass-cache/6798a1882124cebff94d4566f5c9c3f157f6b71f/_clearfix.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/.sass-cache/6798a1882124cebff94d4566f5c9c3f157f6b71f/_float.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/.sass-cache/6798a1882124cebff94d4566f5c9c3f157f6b71f/_forms.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/.sass-cache/6798a1882124cebff94d4566f5c9c3f157f6b71f/_gradients.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/.sass-cache/6798a1882124cebff94d4566f5c9c3f157f6b71f/_grid-framework.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/.sass-cache/6798a1882124cebff94d4566f5c9c3f157f6b71f/_grid.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/.sass-cache/6798a1882124cebff94d4566f5c9c3f157f6b71f/_hover.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/.sass-cache/6798a1882124cebff94d4566f5c9c3f157f6b71f/_image.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/.sass-cache/6798a1882124cebff94d4566f5c9c3f157f6b71f/_list-group.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/.sass-cache/6798a1882124cebff94d4566f5c9c3f157f6b71f/_lists.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/.sass-cache/6798a1882124cebff94d4566f5c9c3f157f6b71f/_nav-divider.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/.sass-cache/6798a1882124cebff94d4566f5c9c3f157f6b71f/_pagination.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/.sass-cache/6798a1882124cebff94d4566f5c9c3f157f6b71f/_reset-text.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/.sass-cache/6798a1882124cebff94d4566f5c9c3f157f6b71f/_resize.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/.sass-cache/6798a1882124cebff94d4566f5c9c3f157f6b71f/_screen-reader.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/.sass-cache/6798a1882124cebff94d4566f5c9c3f157f6b71f/_size.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/.sass-cache/6798a1882124cebff94d4566f5c9c3f157f6b71f/_table-row.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/.sass-cache/6798a1882124cebff94d4566f5c9c3f157f6b71f/_text-emphasis.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/.sass-cache/6798a1882124cebff94d4566f5c9c3f157f6b71f/_text-hide.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/.sass-cache/6798a1882124cebff94d4566f5c9c3f157f6b71f/_text-truncate.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/.sass-cache/6798a1882124cebff94d4566f5c9c3f157f6b71f/_transition.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/.sass-cache/6798a1882124cebff94d4566f5c9c3f157f6b71f/_visibility.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/.sass-cache/ae5e372f4bd6c65a3d0561f5e2f4cb8c771175f2/_display.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/.sass-cache/ae5e372f4bd6c65a3d0561f5e2f4cb8c771175f2/_flex.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/.sass-cache/ae5e372f4bd6c65a3d0561f5e2f4cb8c771175f2/_sizing.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/.sass-cache/fa46ab29786c6b93f93dff57c51fa7cf5cbe37bd/_font-face.sassc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/_fonts.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/_libs.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/_media.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/_mixins/_font-face.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/_vars.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/main.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/main.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template_bootstrap/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template_bootstrap/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template_bootstrap/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template_bootstrap/.idea/template_bootstrap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template_bootstrap/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template_bootstrap/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template_bootstrap/browsersync.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template_bootstrap/css/.sass-cache/b55370e7d1bc69f9acb4f335e004f176ae570ec2/main.sassc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template_bootstrap/css/fonts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template_bootstrap/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template_bootstrap/css/main.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template_bootstrap/css/main.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template_bootstrap/css/media.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template_bootstrap/fonts/RobotoBold/RobotoBold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template_bootstrap/fonts/RobotoBold/RobotoBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template_bootstrap/fonts/RobotoBold/RobotoBold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template_bootstrap/fonts/RobotoLight/RobotoLight.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template_bootstrap/fonts/RobotoLight/RobotoLight.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template_bootstrap/fonts/RobotoLight/RobotoLight.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template_bootstrap/fonts/RobotoMedium/RobotoMedium.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template_bootstrap/fonts/RobotoMedium/RobotoMedium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template_bootstrap/fonts/RobotoMedium/RobotoMedium.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template_bootstrap/fonts/RobotoRegular/RobotoRegular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template_bootstrap/fonts/RobotoRegular/RobotoRegular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template_bootstrap/fonts/RobotoRegular/RobotoRegular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template_bootstrap/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template_bootstrap/js/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template_bootstrap/libs/bootstrap/bootstrap-grid-3.3.1.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template_bootstrap/libs/countdown/jquery.countdown-ru.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template_bootstrap/libs/countdown/jquery.countdown.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template_bootstrap/libs/countdown/jquery.countdown.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template_bootstrap/libs/countdown/jquery.plugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template_bootstrap/libs/fancybox/blank.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template_bootstrap/libs/fancybox/fancybox_loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template_bootstrap/libs/fancybox/fancybox_loading@2x.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template_bootstrap/libs/fancybox/fancybox_overlay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template_bootstrap/libs/fancybox/fancybox_sprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template_bootstrap/libs/fancybox/fancybox_sprite@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template_bootstrap/libs/fancybox/helpers/fancybox_buttons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template_bootstrap/libs/fancybox/helpers/jquery.fancybox-buttons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template_bootstrap/libs/fancybox/helpers/jquery.fancybox-buttons.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template_bootstrap/libs/fancybox/helpers/jquery.fancybox-media.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template_bootstrap/libs/fancybox/helpers/jquery.fancybox-thumbs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template_bootstrap/libs/fancybox/helpers/jquery.fancybox-thumbs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template_bootstrap/libs/fancybox/jquery.fancybox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template_bootstrap/libs/fancybox/jquery.fancybox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template_bootstrap/libs/fancybox/jquery.fancybox.pack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template_bootstrap/libs/font-awesome-4.2.0/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template_bootstrap/libs/font-awesome-4.2.0/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template_bootstrap/libs/font-awesome-4.2.0/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template_bootstrap/libs/font-awesome-4.2.0/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template_bootstrap/libs/font-awesome-4.2.0/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template_bootstrap/libs/font-awesome-4.2.0/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template_bootstrap/libs/html5shiv/es5-shim.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template_bootstrap/libs/html5shiv/html5shiv-printshiv.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template_bootstrap/libs/html5shiv/html5shiv.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template_bootstrap/libs/html5shiv/respond.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template_bootstrap/libs/jquery-mousewheel/jquery.mousewheel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template_bootstrap/libs/jquery/jquery-1.11.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template_bootstrap/libs/landing-nav/navigation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template_bootstrap/libs/owl-carousel/AjaxLoader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template_bootstrap/libs/owl-carousel/grabbing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template_bootstrap/libs/owl-carousel/owl.carousel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template_bootstrap/libs/owl-carousel/owl.carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template_bootstrap/libs/owl-carousel/owl.carousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template_bootstrap/libs/owl-carousel/owl.theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template_bootstrap/libs/owl-carousel/owl.transitions.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template_bootstrap/libs/respond/respond.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template_bootstrap/libs/scrollto/jquery.scrollTo.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template_bootstrap/libs/waypoints/waypoints-1.6.2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../template_bootstrap/mail.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Grid_css/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Grid_css/.idea/Grid css.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Grid_css/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Grid_css/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Grid_css/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Grid_css/.idea/watcherTasks.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Grid_css/browser-sync.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Grid_css/browsersync.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Grid_css/css/.sass-cache/63a09cad9ecc308d6abdd46224447fc4bf8a43d8/style.sassc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Grid_css/css/.sass-cache/dd9def58d7e84f5cdf8590ea946dca21a8b58bc4/style.sassc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Grid_css/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Grid_css/css/style.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Grid_css/css/style.sass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Grid_css/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootstrap/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootstrap/.idea/bootstrap.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootstrap/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootstrap/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootstrap/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootstrap/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootstrap/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootstrap/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootstrap/css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootstrap/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootstrap/css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootstrap/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootstrap/css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootstrap/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootstrap/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootstrap/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootstrap/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootstrap/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootstrap/index — копия.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootstrap/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootstrap/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootstrap/js/bootstrap.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootstrap/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootstrap/js/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootstrap/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootstrap/js/bootstrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootstrap/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootstrap/js/bootstrap.min.js.map" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1itVZSzN2VopsCKCQnbYyGZzpyj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../newUber" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\WEB\asamoile.github.io\optimized\fonts" />
+      <recent name="C:\WEB\asamoile.github.io\optimized" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/optimized/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="889b5459-050b-4600-809b-6ea8dd75c91f" name="Default Changelist" comment="" />
+      <created>1602726930145</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602726930145</updated>
+      <workItem from="1602726931541" duration="31847000" />
+      <workItem from="1602764248259" duration="2874000" />
+      <workItem from="1602768086400" duration="36000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="569" y="379" key="EditFileWatcherDialog" timestamp="1602727901429">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="569" y="379" key="EditFileWatcherDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602727901429" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1602768120132">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1602768120132" />
+  </component>
+</project>
